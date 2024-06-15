@@ -4,8 +4,8 @@
 ## 참고 사이트
 https://m.10000recipe.com/
 
-# 구현/설계 포트폴리오
-https://github.com/kang-minjune/Recipe-Share-Project/blob/main/Simply%20Cook%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%80%E1%85%A8%3A%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB%20Portfolio.docx
+# 구현 및 설계 포트폴리오
+![구현/설계 포트폴리오](https://github.com/kang-minjune/Recipe-Share-Project/blob/main/Simply%20Cook%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%80%E1%85%A8%3A%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB%20Portfolio.docx)
 
 # 시연영상
 https://github.com/bakuuuuuuu/recipe-share-platform/assets/54611807/3e92e6b2-1ada-42af-8963-5a7531551b54
