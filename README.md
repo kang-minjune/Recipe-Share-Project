@@ -19,7 +19,7 @@ https://github.com/bakuuuuuuu/recipe-share-platform/assets/54611807/3e92e6b2-1ad
 
 | 항목 | 내용 |
 | --- | --- |
-| OS | Windows 10 |
+| OS | ![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white) |
 | IDE | Visual Studio Code |
 | Language | JavaScript |
 | Library | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) |
