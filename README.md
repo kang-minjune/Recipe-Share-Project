@@ -21,7 +21,7 @@ https://github.com/bakuuuuuuu/recipe-share-platform/assets/54611807/3e92e6b2-1ad
 | --- | --- |
 | OS | ![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white) |
 | IDE | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) |
-| Language | JavaScript |
+| Language | ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) |
 | Library | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) |
 | React Version | ^18.3.1 |
 
