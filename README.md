@@ -22,8 +22,7 @@ https://github.com/bakuuuuuuu/recipe-share-platform/assets/54611807/3e92e6b2-1ad
 | OS | Windows 10 |
 | IDE | Visual Studio Code |
 | Language | JavaScript |
-| FrameWork | React |
-| library | react-router-dom@6.23.0, @fortawesome, styled-components@6.1.9 |  
+| Library | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) |
 | React Version | ^18.3.1 |
 
 
