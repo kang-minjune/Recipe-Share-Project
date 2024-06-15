@@ -15,7 +15,7 @@ https://github.com/bakuuuuuuu/recipe-share-platform/assets/54611807/3e92e6b2-1ad
 
 <br/>
 [DOWNLOAD LINK]
-<br/>
+<br/><br/>
 [Simply Cook 설계 구현 Portfolio.pdf](https://github.com/user-attachments/files/15855201/Simply.Cook.Portfolio.pdf)
 
 # 구조도
